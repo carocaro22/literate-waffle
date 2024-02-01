@@ -1,4 +1,4 @@
-# Research Project
+# Research Project 1
 This is an assignment of the first semester of my Masters in Networked Systems. 
 
 The Research is about Modulation Techniques for Embedded Systems. More specifically, I want to investigate what alternatives to the LoRa Modulation exists or are being researched. 
