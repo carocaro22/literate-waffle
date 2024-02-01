@@ -5,4 +5,4 @@ The Research is about Modulation Techniques for Embedded Systems. More specifica
 
 In this very beggining of the research I am just trying to make sense of following paper about the M-ary Aggregate Spreak Pulse Modulation written by Alexei Nikitin and Ruslan L. Davidchak
 
-[https://ieeexplore.ieee.org/abstract/document/9595771](M-ary Aggregate Spread Pulse Modulation in LPWANs for IoT applications)
+(M-ary Aggregate Spread Pulse Modulation in LPWANs for IoT applications)[https://ieeexplore.ieee.org/abstract/document/9595771]
