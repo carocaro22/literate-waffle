@@ -16,6 +16,7 @@ https://www.youtube.com/watch?v=68Nua8gKdRU
 
 Definitions (Wikipedia):
 https://pysdr.org/content/intro.html
+https://en.wikipedia.org/wiki/Spread_spectrum
 
 Development Tools: 
 https://pysdr.org/content/intro.html
